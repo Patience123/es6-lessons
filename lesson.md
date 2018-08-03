@@ -5,3 +5,4 @@
 - [代理](./lessons/proxy.md)
 - [箭头函数](./lessons/arrow-function.md)
 - [参数](./lessons/parameter.md)
+- [数组的扩展](./lessons/array.md)
