@@ -96,6 +96,8 @@
     sd2.mission();
     console.log(sd2.__proto__, sd2.__proto__.__proto__);
     console.log(Object.getOwnPropertyNames(sd2));
+    console.log(Student.__proto__ === Person);  // true
+    console.log(Student.prototype.__proto__ === Person.prototype); // true
 }
 
 {
