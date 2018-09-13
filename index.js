@@ -4,7 +4,8 @@
 // import './source/arrow-function';
 // import './source/parameter'
 // import './source/array';
-import './source/class';
+// import './source/class';
+import './source/promise';
 
 let log=(item)=>{console.log(item)};
 log('我要学习ES6')
